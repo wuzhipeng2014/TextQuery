@@ -1,0 +1,8 @@
+hello ,this is a test file, a word is occured in this file.
+but i can tell which line it lies.
+can you tell me the ansower.
+hello
+world
+hello
+baby
+hello
